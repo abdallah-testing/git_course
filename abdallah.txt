@@ -1,1 +1,3 @@
-how are you
+int main () {
+    printf("Hello world!!");		
+}
